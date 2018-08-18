@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/kjeld
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.kjeld.de
+  * I am kjeld (https://keybase.io/kjeld) on keybase.
+  * I have a public key ASC96ELvzw-SF-RN4LZzl63v_gqQuvgabqK-XvpE9F_NeAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101113f5dbcc221e9b13aa30fc71885e16a6724259345523558a7fe37532cafcd1a0a",
+      "host": "keybase.io",
+      "kid": "0120bde842efcf0f9217e44de0b67397adeffe0a90baf81a6ea2be5efa44f45fcd780a",
+      "uid": "f0436b7571bd8d4f55b17fee05d76400",
+      "username": "kjeld"
+    },
+    "merkle_root": {
+      "ctime": 1534602620,
+      "hash": "e112f4e239e1a794048307bb2654e827bb3099258171721253ade53b2ee94b1c0f909762006195916a315c85f0f1a88e52917f0d7efd1e66879370595479f319",
+      "hash_meta": "48dfe7e9006944a3093b18e7245530626cb279719b20112db27d0c2b4f02544e",
+      "seqno": 3475047
+    },
+    "service": {
+      "entropy": "uileHQzwyiV411vntoiOpG9f",
+      "hostname": "www.kjeld.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.5.0"
+  },
+  "ctime": 1534602649,
+  "expire_in": 504576000,
+  "prev": "e833b57f7b249b70d3ec772c1adf32b651cb4dcddb9f76a10b305d85602caa9e",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgvehC788PkhfkTeC2c5et7/4KkLr4Gm6ivl76RPRfzXgKp3BheWxvYWTESpcCE8Qg6DO1f3skm3DT7HcsGt8ytlHLTc3bn3ahCzBdhWAsqp7EIPPtcyWtEbSeVvfP55IiIe3Dz8VaZVE9fcYWRgfWUx8ZAgHCo3NpZ8RANpo13LXHFc1A9zYu+Tr1lZpjE5cRghZVa/eagnVTwmCM5MOIqK2rNXksJyubf8DH39q/b5eowa7uhqHA8rgtAahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGegdv1d9d1llPmT8YwjvRYmm0QpA+KmajxyjQWliFXCo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kjeld
+
+==================================================================
